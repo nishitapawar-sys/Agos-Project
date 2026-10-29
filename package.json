@@ -1,0 +1,21 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arrayfunc.spec.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^25.9.1"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "install": "^0.13.0",
+    "npx": "^10.2.2",
+    "playwright": "^1.61.1",
+    "xlsx": "^0.18.5"
+  }
+}
